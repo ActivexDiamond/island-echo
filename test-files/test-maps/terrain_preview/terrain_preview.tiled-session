@@ -1,0 +1,35 @@
+{
+    "activeFile": "terrain-preview.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "terrain-map-v7.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "terrain-preview.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 7795,
+                "y": 4798.333333333333
+            }
+        },
+        "terrain-v7.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.5
+        }
+    },
+    "openFiles": [
+        "terrain-map-v7.tsx",
+        "terrain-preview.tmx",
+        "terrain-v7.tsx"
+    ],
+    "project": "terrain_preview.tiled-project",
+    "recentFiles": [
+        "terrain-map-v7.tsx",
+        "terrain-preview.tmx",
+        "terrain-v7.tsx"
+    ]
+}

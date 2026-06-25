@@ -1,0 +1,58 @@
+{
+    "activeFile": "map1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "/home/activexdiamond/Dropbox/code/Love/island-echo/game/assets/maps/terrain_preview/terrain-map-v7.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "/home/activexdiamond/Dropbox/code/Love/island-echo/game/assets/maps/terrain_preview/terrain-preview.tmx": {
+            "scale": 0.1019287109375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 4096,
+                "y": 4095.9999999999995
+            }
+        },
+        "/home/activexdiamond/Dropbox/code/Love/island-echo/game/assets/maps/terrain_preview/terrain-v7.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "grass-summer.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 4
+        },
+        "map1.tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 482.125,
+                "y": 2372.125
+            }
+        }
+    },
+    "last.imagePath": "/home/activexdiamond/Dropbox/code/Love/island-echo/game/assets/maps/map1/tiles",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "openFiles": [
+        "map1.tmx",
+        "grass-summer.tsx"
+    ],
+    "project": "map1-prj.tiled-project",
+    "recentFiles": [
+        "grass-summer.tsx",
+        "map1.tmx",
+        "/home/activexdiamond/Dropbox/code/Love/island-echo/game/assets/maps/terrain_preview/terrain-v7.tsx",
+        "/home/activexdiamond/Dropbox/code/Love/island-echo/game/assets/maps/terrain_preview/terrain-preview.tmx",
+        "/home/activexdiamond/Dropbox/code/Love/island-echo/game/assets/maps/terrain_preview/terrain-map-v7.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
